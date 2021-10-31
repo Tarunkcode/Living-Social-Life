@@ -6,7 +6,7 @@ $(document).ready(function () {
       tag: "switch to dark or light mode",
       detail:
         "This is a project made with Js and html, in this project I have learned how write code to switch in dark mode or how to get back out light mode",
-      link: "https://natureguardianz.me/tarun-kumar-portfolio/(01)light-dark-mode/",
+      link: "https://natureguardianz.me/tarunkumar-portfolio/(01)light-dark-mode/",
     },
 
     musicPlayer: {
