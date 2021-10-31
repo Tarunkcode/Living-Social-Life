@@ -14,59 +14,59 @@ $(document).ready(function () {
       tag: "listening favourite music",
       detail:
         "A music palyer in your browser to listen song, application made with javascript",
-      link: "https://natureguardianz.me/tarun-kumar-portfolio/(02)music-player",
+      link: "https://natureguardianz.me/tarunkumar-portfolio/(02)music-player",
     },
     customCountdown: {
       title: "Start a Custom Countdown",
       tag: "Let's the countdown begin",
       detail: "mark your important days and wait for stop the countdown",
-      link: "https://natureguardianz.me/tarun-kumar-portfolio/(03)custom-countdown",
+      link: "https://natureguardianz.me/tarunkumar-portfolio/(03)custom-countdown",
     },
     formValidator: {
       title: "Form Validator",
       tag: "Don't hesitate",
       detail: "Register to the app and then validate your information please",
-      link: "https://natureguardianz.me/tarun-kumar-portfolio/(04)form-validator",
+      link: "https://natureguardianz.me/tarunkumar-portfolio/(04)form-validator",
     },
     spockRockGame: {
       title: "Spock Rock Game",
       tag: "Play this game ",
       detail: "Play it just for fun! Do you like it ?",
-      link: "https://natureguardianz.me/tarun-kumar-portfolio/(05)spock-rock-game",
+      link: "https://natureguardianz.me/tarunkumar-portfolio/(05)spock-rock-game",
     },
     nasaApod: {
       title: "Nasa Apod",
       tag: "Nasa finds something ",
       detail: "What Nasa brings to us find out now ?",
-      link: "https://natureguardianz.me/tarun-kumar-portfolio/(06)nasa-apod",
+      link: "https://natureguardianz.me/tarunkumar-portfolio/(06)nasa-apod",
     },
     dragNdDrop: {
       title: "Drag and Drop",
       tag: "How to make drag and drop application",
       detail:
         "This is a project made with Js and html, in this project I have learned how write code to make a drag and drop in your web application",
-      link: "https://natureguardianz.me/tarun-kumar-portfolio/(07)drag-and-drop",
+      link: "https://natureguardianz.me/tarunkumar-portfolio/(07)drag-and-drop",
     },
     calculator: {
       title: "A basic Js Calculator",
       tag: "just for making simple calculations",
       detail:
         "Do you want to add or  subtract or divide or multiply numbers then get into it.",
-      link: "https://natureguardianz.me/tarun-kumar-portfolio/(08)calculator",
+      link: "https://natureguardianz.me/tarunkumar-portfolio/(08)calculator",
     },
     paintClone: {
       title: "Cloning a paint application",
       tag: "Paint your thoughts",
       detail:
         "Clone paint application made in js , html, css and fetching api's.",
-      link: "https://natureguardianz.me/tarun-kumar-portfolio/(09)paint-clone",
+      link: "https://natureguardianz.me/tarunkumar-portfolio/(09)paint-clone",
     },
     pong: {
       title: "The Ping Pong Game",
       tag: "Do you like ping pong game",
       detail:
         "This a classic nokia mobile game you are definately familiar with it.",
-      link: "https://natureguardianz.me/tarun-kumar-portfolio/(10)pong",
+      link: "https://natureguardianz.me/tarunkumar-portfolio/(10)pong",
     },
 
     ordering: {
