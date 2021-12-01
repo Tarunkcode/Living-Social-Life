@@ -5,7 +5,7 @@ $(document).ready(function () {
       title: "Ristorante Con Fusion",
       tag: "This is a Restaurant website",
       detail:
-        "This project is in bootstrap which was I made during learning bootstrap 4 from coursera.",
+        "This project is in bootstrap which was I made during learning bootstrap 4 from coursera. This is a commission-free online ordering system and food ordering app helping restaurants feed their hungry customers.",
       link: "https://natureguardianz.me/bootstrap/Assignment-04",
     },
     lightVsDark: {
@@ -76,12 +76,11 @@ $(document).ready(function () {
       link: "https://natureguardianz.me/tarunkumar-portfolio/(10)pong",
     },
 
-    ordering: {
-      title: "Food Ordering Web",
-      tag: "ONLINE ORDERING SOLUTION.",
-      detail:
-        "This is not uploaded right now still is progress to made. This is a commission-free online ordering system and food ordering app helping restaurants feed their hungry customers.",
-      link: "https://xyz.com",
+    ecomm: {
+      title: "Tarun Clothing Store & Fashion Collection",
+      tag: "Full fleged E-Commerce Website",
+      detail: "This is an online ecommerce clothing shopping store. This project is developing in react.js which is js library and used many other libraries like react-router, firebase for authentication, redux for state manangement and stripe Api for payments , contecxt Api and Hooks. This is a complete Project that meets all the expectations for client and completely ready for handover" ,
+      link: "https://9gth5.csb.app/",
     },
     nature: {
       title: "Nature Guardian",
