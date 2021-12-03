@@ -79,7 +79,8 @@ $(document).ready(function () {
     ecomm: {
       title: "Tarun Clothing Store & Fashion Collection",
       tag: "Full fleged E-Commerce Website",
-      detail: "This is an online ecommerce clothing shopping store. This project is developing in react.js which is js library and used many other libraries like react-router, firebase for authentication, redux for state manangement and stripe Api for payments , contecxt Api and Hooks. This is a complete Project that meets all the expectations for client and completely ready for handover" ,
+      detail:
+        "This is an online ecommerce clothing shopping store. This project is developing in react.js which is js library and used many other libraries like react-router, firebase for authentication, redux for state manangement and stripe Api for payments , contecxt Api and Hooks. This is a complete Project that meets all the expectations for client and completely ready for handover",
       link: "https://9gth5.csb.app/",
     },
     nature: {
@@ -95,6 +96,14 @@ $(document).ready(function () {
       detail:
         "This is my mini project in my college called video player in javascript, when I was very naive in web development",
       link: "https://natureguardianz.me/video-player",
+    },
+
+    sociallife: {
+      title: "Living the social life",
+      tag: "Video player controllers in javascript",
+      detail:
+        "This project is show case my CSS skills and it is just a designed web page",
+      link: "https://natureguardianz.me/living-a-social-life/",
     },
   }
 
