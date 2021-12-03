@@ -770,6 +770,9 @@ section:nth-of-type(3) #gallery .mix:nth-child(13) .card {
 section:nth-of-type(3) #gallery .mix:nth-child(14) .card {
   background: url("../img/player-1.jpeg") center center/cover;
 }
+section:nth-of-type(3) #gallery .mix:nth-child(15) .card {
+  background: url("../img/living-social-life.png") center center/cover;
+}
 section:nth-of-type(3) #gallery .mix .card {
   height: 240px;
   max-width: 100%;
