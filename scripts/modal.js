@@ -1,6 +1,13 @@
 $(document).ready(function () {
   // MODAL
   var modalText = {
+    coffee_house: {
+      title: "Coffee House",
+      tag: "This website is ready to use for coffee cafe buisness",
+      detail:
+        "This project is build in react.js and using modern librarues like react-router, redux and also have firebase support for authentication",
+      link: "https://tarunkcode.github.io/coffee-house",
+    },
     restaurant: {
       title: "Ristorante Con Fusion",
       tag: "This is a Restaurant website",
@@ -83,6 +90,7 @@ $(document).ready(function () {
         "This is an online ecommerce clothing shopping store. This project is developing in react.js which is js library and used many other libraries like react-router, firebase for authentication, redux for state manangement and stripe Api for payments , contecxt Api and Hooks. This is a complete Project that meets all the expectations for client and completely ready for handover",
       link: "https://9gth5.csb.app/",
     },
+  
     nature: {
       title: "Nature Guardian",
       tag: "An NGO platform from India",
@@ -95,7 +103,7 @@ $(document).ready(function () {
       tag: "Video player controllers in javascript",
       detail:
         "This is my mini project in my college called video player in javascript, when I was very naive in web development",
-      link: "https://github.io/video-player",
+      link: "https://tarunkcode/github.io/video-player",
     },
 
     sociallife: {
@@ -103,8 +111,9 @@ $(document).ready(function () {
       tag: "Video player controllers in javascript",
       detail:
         "This project is show case my CSS skills and it is just a designed web page",
-      link: "https://github.io/living-a-social-life/",
+      link: "https://tarunkcode.github.io/living-a-social-life/",
     },
+
   }
 
   $("#gallery .button").on("click", function () {

@@ -738,39 +738,43 @@ section:nth-of-type(3) #gallery .mix:nth-child(3) .card {
   background: url("../img/thumb-2.png") center center/cover;
 }
 section:nth-of-type(3) #gallery .mix:nth-child(4) .card {
+  background: url("../img/coffee-bg-1.jpg") center center/cover;
+}
+
+section:nth-of-type(3) #gallery .mix:nth-child(5) .card {
   background: url("../img/DarkMode-vs-LightMode.png") center center/cover;
 }
-section:nth-of-type(3) #gallery .mix:nth-child(5) .card {
+section:nth-of-type(3) #gallery .mix:nth-child(6) .card {
   background: url("../img/music-player.png") center center/cover;
 }
-section:nth-of-type(3) #gallery .mix:nth-child(6) .card {
+section:nth-of-type(3) #gallery .mix:nth-child(7) .card {
   background: url("../img/Custom\ Countdown.png") center center/cover;
 }
-section:nth-of-type(3) #gallery .mix:nth-child(7) .card {
+section:nth-of-type(3) #gallery .mix:nth-child(8) .card {
   background: url("../img/Form\ Validator.png") center center/cover;
 }
-section:nth-of-type(3) #gallery .mix:nth-child(8) .card {
+section:nth-of-type(3) #gallery .mix:nth-child(9) .card {
   background: url("../img/Spock\ Rock\ Game.png") center center/cover;
 }
-section:nth-of-type(3) #gallery .mix:nth-child(9) .card {
+section:nth-of-type(3) #gallery .mix:nth-child(10) .card {
   background: url("../img/nasa.png") center center/cover;
 }
-section:nth-of-type(3) #gallery .mix:nth-child(10) .card {
+section:nth-of-type(3) #gallery .mix:nth-child(11) .card {
   background: url("../img/dragNdDrop.png") center center/cover;
 }
-section:nth-of-type(3) #gallery .mix:nth-child(11) .card {
+section:nth-of-type(3) #gallery .mix:nth-child(12) .card {
   background: url("../img/Calculator.png") center center/cover;
 }
-section:nth-of-type(3) #gallery .mix:nth-child(12) .card {
+section:nth-of-type(3) #gallery .mix:nth-child(13) .card {
   background: url("../img/Paint\ Clone.png") center center/cover;
 }
-section:nth-of-type(3) #gallery .mix:nth-child(13) .card {
+section:nth-of-type(3) #gallery .mix:nth-child(14) .card {
   background: url("../img/Pong.png") center center/cover;
 }
-section:nth-of-type(3) #gallery .mix:nth-child(14) .card {
+section:nth-of-type(3) #gallery .mix:nth-child(15) .card {
   background: url("../img/player-1.jpeg") center center/cover;
 }
-section:nth-of-type(3) #gallery .mix:nth-child(15) .card {
+section:nth-of-type(3) #gallery .mix:nth-child(16) .card {
   background: url("../img/living-social-life.png") center center/cover;
 }
 section:nth-of-type(3) #gallery .mix .card {
