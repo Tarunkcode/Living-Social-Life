@@ -6,14 +6,14 @@ $(document).ready(function () {
       tag: "This is a Restaurant website",
       detail:
         "This project is in bootstrap which was I made during learning bootstrap 4 from coursera. This is a commission-free online ordering system and food ordering app helping restaurants feed their hungry customers.",
-      link: "https://natureguardianz.me/bootstrap/Assignment-04",
+      link: "https://tarunkcode.github.io/bootstrap/Assignment-04",
     },
     lightVsDark: {
       title: "Light to Dark mode and vice versa",
       tag: "switch to dark or light mode",
       detail:
         "This is a project made with Js and html, in this project I have learned how write code to switch in dark mode or how to get back out light mode",
-      link: "https://natureguardianz.me/tarunkumar-portfolio/(01)light-dark-mode/",
+      link: "https://tarunkcode.github.io/js-project/(01)light-dark-mode/",
     },
 
     musicPlayer: {
@@ -21,59 +21,59 @@ $(document).ready(function () {
       tag: "listening favourite music",
       detail:
         "A music palyer in your browser to listen song, application made with javascript",
-      link: "https://natureguardianz.me/tarunkumar-portfolio/(02)music-player",
+      link: "https://tarunkcode.github.io/js-project/(02)music-player",
     },
     customCountdown: {
       title: "Start a Custom Countdown",
       tag: "Let's the countdown begin",
       detail: "mark your important days and wait for stop the countdown",
-      link: "https://natureguardianz.me/tarunkumar-portfolio/(03)custom-countdown",
+      link: "https://tarunkcode.github.io/js-project/(03)custom-countdown",
     },
     formValidator: {
       title: "Form Validator",
       tag: "Don't hesitate",
       detail: "Register to the app and then validate your information please",
-      link: "https://natureguardianz.me/tarunkumar-portfolio/(04)form-validator",
+      link: "https://tarunkcode.github.io/js-project/(04)form-validator",
     },
     spockRockGame: {
       title: "Spock Rock Game",
       tag: "Play this game ",
       detail: "Play it just for fun! Do you like it ?",
-      link: "https://natureguardianz.me/tarunkumar-portfolio/(05)spock-rock-game",
+      link: "https://tarunkcode.github.io/js-project/(05)spock-rock-game",
     },
     nasaApod: {
       title: "Nasa Apod",
       tag: "Nasa finds something ",
       detail: "What Nasa brings to us find out now ?",
-      link: "https://natureguardianz.me/tarunkumar-portfolio/(06)nasa-apod",
+      link: "https://tarunkcode.github.io/js-project/(06)nasa-apod",
     },
     dragNdDrop: {
       title: "Drag and Drop",
       tag: "How to make drag and drop application",
       detail:
         "This is a project made with Js and html, in this project I have learned how write code to make a drag and drop in your web application",
-      link: "https://natureguardianz.me/tarunkumar-portfolio/(07)drag-and-drop",
+      link: "https://tarunkcode.github.io/js-project/(07)drag-and-drop",
     },
     calculator: {
       title: "A basic Js Calculator",
       tag: "just for making simple calculations",
       detail:
         "Do you want to add or  subtract or divide or multiply numbers then get into it.",
-      link: "https://natureguardianz.me/tarunkumar-portfolio/(08)calculator",
+      link: "https://tarunkcode.github.io/js-project/(08)calculator",
     },
     paintClone: {
       title: "Cloning a paint application",
       tag: "Paint your thoughts",
       detail:
         "Clone paint application made in js , html, css and fetching api's.",
-      link: "https://natureguardianz.me/tarunkumar-portfolio/(09)paint-clone",
+      link: "https://tarunkcode.github.io/js-project/(09)paint-clone",
     },
     pong: {
       title: "The Ping Pong Game",
       tag: "Do you like ping pong game",
       detail:
         "This a classic nokia mobile game you are definately familiar with it.",
-      link: "https://natureguardianz.me/tarunkumar-portfolio/(10)pong",
+      link: "https://tarunkcode.github.io/js-project/(10)pong",
     },
 
     ecomm: {
@@ -88,14 +88,14 @@ $(document).ready(function () {
       tag: "An NGO platform from India",
       detail:
         "Nature Guardian charitable Foundation (NGCF) is a private indian organisation running by a group indian citizens, our area of interest is in wildlife and nature conservation we are funded by indian, american, france, and britain governments and many other billionaire buisnessmens from all over the globe so far. we are recognised in 23 different contries all over the globe.",
-      link: "https://natureguardianz.me",
+      link: "https://tarunkcode.github.io/capstone-project-nature-guardianz/",
     },
     player: {
       title: "Video Player",
       tag: "Video player controllers in javascript",
       detail:
         "This is my mini project in my college called video player in javascript, when I was very naive in web development",
-      link: "https://natureguardianz.me/video-player",
+      link: "https://github.io/video-player",
     },
 
     sociallife: {
@@ -103,7 +103,7 @@ $(document).ready(function () {
       tag: "Video player controllers in javascript",
       detail:
         "This project is show case my CSS skills and it is just a designed web page",
-      link: "https://natureguardianz.me/living-a-social-life/",
+      link: "https://github.io/living-a-social-life/",
     },
   }
 
